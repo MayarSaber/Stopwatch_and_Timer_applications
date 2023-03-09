@@ -12,7 +12,7 @@ This system introduces two different clock applications
    - EXTI0 to control pausing of stopwatch application
    - EXTI2 to control resuming of stopwatch application
 2. LCD LMB161A 
-3. Kepad consists of 16 tactile switches
+3. Keypad consists of 16 tactile switches
 4. 2 tactile switches to control EXTI0, EXTI2 interrupts
 5. USBASP burner
 ## Project Pictures
