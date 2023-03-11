@@ -5,7 +5,7 @@ This system introduces two different clock applications
 - **First:** A stopwatch application that can count up till 100 hours, with the ability of pausing and resuming the stopwatch at any point.
 - **Second:** A timer application that can be adjusted to any amount of time consisting of hours, minutes and seconds and by pressing the start button it'll count down till the entered time is up, and that's when a buzzer alarm will be initiated.
 ## System Components
-1. Atmega32 AVR microcontroller with the usage SWC
+1. Atmega32 AVR microcontroller with the usage of these SWC
    - DIO
    - TIMER0 to control the counting of the stopwatch application.
    - TIMER1 to control the counting of the timer application.
